@@ -24,7 +24,7 @@
             <objects>
                 <viewController title="Second" id="Ihh-te-gKg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="sYl-Pq-eOp">
-                        <rect key="frame" x="0.0" y="20" width="320" height="460"/>
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text="Second screen" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5pa-Tj-ldJ">
@@ -73,7 +73,7 @@
             <objects>
                 <viewController title="First" id="2" customClass="ViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3">
-                        <rect key="frame" x="0.0" y="20" width="320" height="460"/>
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.5" contentMode="left" text="First screen" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="08u-gq-PsD">
@@ -135,6 +135,6 @@
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="k9c-T8-oUq"/>
+        <segue reference="WJ4-gK-GeB"/>
     </inferredMetricsTieBreakers>
 </document>
